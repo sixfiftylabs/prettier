@@ -1,0 +1,12 @@
+{
+  "name": "@sixfiftylabs/prettier",
+  "version": "1.0.0",
+  "description": "SixFifty Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:sixfiftylabs/prettier.git",
+  "author": {
+    "name": "SixFifty",
+    "url": "https://www.sixfifty.com"
+  },
+  "license": "MIT"
+}
