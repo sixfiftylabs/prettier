@@ -1,6 +1,6 @@
 {
   "name": "@sixfiftylabs/prettier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SixFifty Prettier config",
   "main": "index.json",
   "repository": "git@github.com:sixfiftylabs/prettier.git",
@@ -9,7 +9,7 @@
     "url": "https://www.sixfifty.com"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/sixfiftylabs"
   },
   "license": "MIT"
 }
