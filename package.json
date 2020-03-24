@@ -4,10 +4,17 @@
   "version": "1.0.1",
   "description": "SixFifty Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:sixfiftylabs/prettier.git",
-  "author": {
-    "name": "SixFifty",
-    "url": "https://www.sixfifty.com"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sixfiftylabs/prettier.git"
   },
-  "license": "MIT"
+  "author": "SixFifty (https://www.sixfifty.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sixfiftylabs/prettier/issues"
+  },
+  "homepage": "https://github.com/sixfiftylabs/prettier#readme",
+  "keywords": [
+    "prettier"
+  ]
 }
