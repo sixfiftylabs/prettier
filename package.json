@@ -1,20 +1,20 @@
 {
-  "name": "@sixfiftylabs/prettier",
-  "private": false,
-  "version": "1.0.1",
-  "description": "SixFifty Prettier config",
-  "main": "index.json",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/sixfiftylabs/prettier.git"
-  },
-  "author": "SixFifty (https://www.sixfifty.com)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sixfiftylabs/prettier/issues"
-  },
-  "homepage": "https://github.com/sixfiftylabs/prettier#readme",
-  "keywords": [
-    "prettier"
-  ]
+    "name": "@sixfiftylabs/prettier",
+    "private": false,
+    "version": "1.0.2",
+    "description": "SixFifty Prettier config",
+    "main": ".prettierrc",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/sixfiftylabs/prettier.git"
+    },
+    "author": "SixFifty (https://www.sixfifty.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sixfiftylabs/prettier/issues"
+    },
+    "homepage": "https://github.com/sixfiftylabs/prettier#readme",
+    "keywords": [
+        "prettier"
+    ]
 }
