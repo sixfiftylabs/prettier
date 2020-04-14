@@ -1,9 +1,9 @@
 {
     "name": "@sixfiftylabs/prettier",
     "private": false,
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "SixFifty Prettier config",
-    "main": ".prettierrc",
+    "main": ".prettierrc.json",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/sixfiftylabs/prettier.git"
